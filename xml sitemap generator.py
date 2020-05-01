@@ -1,4 +1,4 @@
-#@title Generator xml sitemap from multiple urls { vertical-output: true, form-width: "75%", display-mode: "form" }
+#@title Generator xml sitemap from multiple urls { vertical-output: true, form-width: "50%", display-mode: "form" }
 
 changefreq = "daily" #@param ["daily", "weekly", "monthly"]
 lastmod_date = "2020-04-30" #@param {type:"date"}
